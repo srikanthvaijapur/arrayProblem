@@ -1,2 +1,2 @@
 # arrayProblem
-For more commits and details [connectToSrikanth](https://gitlab.com/users/srikanthvaijapur1/projects)
+For more commits and details [click this link](https://gitlab.com/users/srikanthvaijapur1/projects)
